@@ -1,0 +1,45 @@
+.AllPage {
+    display: flex;
+    flex-direction: column;
+}
+
+button {
+    width: 50px;
+    height: 30px;
+    color: black;
+    border-radius: 0;
+    border: 1px solid grey;
+    padding: 0;
+}
+
+.zero {
+    width: 100px;
+}
+
+.Functions {
+    background-color: orange;
+    color: white;
+}
+
+.DisplayResult {
+    height: 65px;
+    margin-bottom: 0px;
+    border: 0px;
+}
+
+.ValueNumber {
+    width: 202px;
+    height: 60px;
+}
+
+table {
+    border: 0px;
+    border-collapse: collapse;
+    border-spacing: 0px;
+}
+
+td {
+    padding: 0px;
+    border-width: 0px;
+    margin: 0px;
+}

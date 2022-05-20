@@ -1,4 +1,3 @@
-console.log('script');
 
     const displayResultItem = document.getElementById("displayResult");
 
