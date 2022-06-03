@@ -11,7 +11,7 @@
     <div class="DisplayResult">
         <form>
             <input id="displayResult" class="ValueNumber" type="value" id="number" name="number" required
-                   pattern="[0-9][^0]+?+[/*-+][0-9][^0]\g">
+                   pattern="[0-5][^0]+?+[/*-+][0-5][^0]\g">
         </form>
     </div>
     <div class="Calculator">
@@ -21,13 +21,13 @@
                     <button onclick="clearDisplay()">C</button>
                 </td>
                 <td>
-                    <button onclick="clearDisplay()">+/-</button>
+                    <button onclick="signPlusMinus()">+/-</button>
                 </td>
                 <td>
-                    <button onclick="clearDisplay('')">%</button>
+                    <button onclick="press('/100')">%</button>
                 </td>
                 <td>
-                    <button class="Functions" onclick="press ('/')">:</button>
+                    <button class="Functions" onclick="press ('/')">÷</button>
                 </td>
             </tr>
             <tr>
@@ -41,7 +41,7 @@
                     <button onclick="press('9')">9</button>
                 </td>
                 <td>
-                    <button class="Functions" onclick="press ('*')">x</button>
+                    <button class="Functions" onclick="press ('*')">×</button>
                 </td>
             </tr>
             <tr>
