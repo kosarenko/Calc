@@ -19,12 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66d3af22-18ad-4033-9651-2ffde25588e6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles calculator apple.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles calculator apple.css" afterDir="false" />
-    </list>
+    <list default="true" id="66d3af22-18ad-4033-9651-2ffde25588e6" name="Default Changelist" comment="edited html elements" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,7 +99,7 @@
       <workItem from="1654078295274" duration="2328000" />
       <workItem from="1654080845942" duration="628000" />
       <workItem from="1654264190009" duration="1758000" />
-      <workItem from="1654266012645" duration="608000" />
+      <workItem from="1654266012645" duration="959000" />
     </task>
     <task id="LOCAL-00001" summary="edit html">
       <created>1652982311944</created>
@@ -148,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653037024644</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="edited html elements">
+      <created>1654266970525</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1654266970525</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,7 +175,8 @@
     <MESSAGE value="styles for calculator" />
     <MESSAGE value="added links css and js" />
     <MESSAGE value="script" />
-    <option name="LAST_COMMIT_MESSAGE" value="script" />
+    <MESSAGE value="edited html elements" />
+    <option name="LAST_COMMIT_MESSAGE" value="edited html elements" />
   </component>
   <component name="WindowStateProjectService">
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1653035782050">
